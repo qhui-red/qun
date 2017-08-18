@@ -1,0 +1,58 @@
+.top-section {
+    max-height: 800px;
+    max-width: 990px;
+}
+
+.hero {
+    background: #e3eefc;
+}
+
+.img-container {
+    background-image: url("background--db@2x-vfly2zNq8.jpg");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+}
+
+.top-section {
+    top: 50%;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: left;
+    margin: 0 20px;
+}
+
+.button {
+    display: block;
+    background: #0071e0;
+    background-size: auto;
+    font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    padding: 14px 40px;
+    border: none;
+    border-radius: 6px;
+}
+
+.CTA {
+    margin-top: 40px;
+    float: left;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 31px;
+    color: #47525d;
+    max-width: 350px;
+}
+
+h2 {
+    font-size: 16px;
+    max-width: 330px;
+}
+
+span {
+    display: block;
+    margin-top: 10px;
+}
